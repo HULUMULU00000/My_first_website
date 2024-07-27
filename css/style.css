@@ -1,0 +1,44 @@
+body {    
+    background-color: #000000;
+    font-family: 'Courier New', Courier, monospace;
+}
+.navigation-bar {
+    font-size: 30px;
+    font-weight: bold;
+}
+.container {
+    margin-top: 30px;
+}
+.row {
+}
+.col-8 {
+    color: #00FF00;
+}
+.my_photo {
+    background: url(../image/My_photo2.jpg) no-repeat center center;
+    background-size: 100%;
+    width: 500px;
+    height: 500px;
+}
+.navigation-logo {
+    background: url(../image/Logo.jpg) no-repeat center center;
+    background-size: 100%;
+    width: 150px;
+    height: 150px;
+}
+.col-9 {
+}
+.nav_text {
+    color: #00FF00;
+    display: flex;
+    align-items: center;
+    justify-content: right;
+}
+.img_size {
+}
+.title_photo {
+    color: #00FF00;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
